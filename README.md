@@ -4,8 +4,7 @@ Meus projetos desenvolvidos no Senac Tatuapé
 ## Autora
 Karen Oliveira
 ## Capturas de Tela
-![] ()
-![tela] (https://github.com/karenoliveiraw/portfolio-java/blob/main/img/Portfolio.PNG)
+![tela](https://github.com/karenoliveiraw/portfolio-java/blob/main/img/Portfolio.png)
 ## Demonstração (Instruções para instalação
 -  É necessario ter o Java versão 17 ou superior instalado
 -  Em realeses, baixar o executável .jar 
